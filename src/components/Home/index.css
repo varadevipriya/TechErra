@@ -1,0 +1,14 @@
+.head-container {
+  margin: 6%;
+  background: cover;
+}
+.heading {
+  color: #1e293b;
+  font-size: 30px;
+  font-family: 'Roboto';
+  font-weight: 800;
+}
+.item-details {
+  display: flex;
+  flex-wrap: wrap;
+}

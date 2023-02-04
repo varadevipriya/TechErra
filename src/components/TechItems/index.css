@@ -1,0 +1,18 @@
+.list-container {
+  list-style-type: none;
+  display: flex;
+  width: 200px;
+  margin: 15px;
+  margin-bottom: 6%;
+  align-items: center;
+}
+.name {
+  color: #475569;
+  font-size: 20px;
+  font-family: 'Roboto';
+  font-weight: 500;
+  margin-left: 10px;
+}
+.tech-image {
+  width: 70px;
+}
